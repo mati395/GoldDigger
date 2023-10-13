@@ -3,7 +3,6 @@
 ### Made with Java and Maven. 
 
 ## Prerequisites
-[Git](https://git-scm.com/downloads "Git") \
 [JDK 21](https://www.oracle.com/pl/java/technologies/downloads/ "JDK")
 
 ## How to launch bot
